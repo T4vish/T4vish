@@ -11,9 +11,9 @@ I am passionate about data analysis that supports public policy evaluation and g
 :computer: Data science projects
 
 #### Currently Learning
-:paintbrush: Data Visualization
+:paintbrush: Data visualization
 
-:bar_chart: Bayesian Staitisics
+:bar_chart: Bayesian statistics
 
 <!--
 **T4vish/T4vish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
