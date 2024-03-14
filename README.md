@@ -1,15 +1,18 @@
 ### Hi there 👋 these are some fun facts about me
 
-## Interests
+#### Interests
 I am passionate about data analysis that supports public policy evaluation and good governance. Especially interested in the areas of labor economics, education, social capital, and public health
 
-## Experiences & Skills 
+#### Experiences & Skills 
 :mag_right: Econometric research
+
 :chart_with_upwards_trend: Time series analysis and forecasting
+
 :computer: Data science projects
 
-## Currently Learning
+#### Currently Learning
 :paintbrush: Data Visualization
+
 :bar_chart: Bayesian Staitisics
 
 <!--
